@@ -76,7 +76,10 @@
 			"pi-hole",
 			"ad-filter"
 		],
-		"license": "MIT",
+		"licenseInformation": {
+			"type": "free",
+			"license": "MIT"
+		},
 		"platform": "Javascript/Node.js",
 		"main": "main.js",
 		"icon": "pi-hole.png",
