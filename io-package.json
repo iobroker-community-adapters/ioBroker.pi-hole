@@ -91,7 +91,17 @@
 		"materialize": true,
 		"supportCustoms": false,
 		"dataSource": "poll",
-		"connectionType": "local"
+		"connectionType": "local",
+		"dependencies": [
+			{
+				"js-controller": ">=6.0.11"
+			}
+		],
+		"globalDependencies": [
+			{
+				"admin": ">=7.6.17"
+			}
+		]
 	},
     "native": {
     },
