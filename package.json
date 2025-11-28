@@ -6,15 +6,29 @@
     "name": "Michael Schuster",
     "email": "development@unltd-networx.de"
   },
-  "homepage": "https://github.com/unltdnetworx/ioBroker.pi-hole",
+  "contributors": [
+    {
+      "name": "iobroker-community-adapters",
+      "email": "iobroker-community-adapters@gmx.de"
+    },
+    {
+      "name": "mcm1957",
+      "email": "mcm57@gmx.at"
+    }
+  ],
+  "homepage": "https://github.com/iobroker-community-adapters/ioBroker.pi-hole",
   "license": "MIT",
   "keywords": [
+    "ioBroker",
     "pi-hole",
     "ad filter"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/unltdnetworx/ioBroker.pi-hole"
+    "url": "https://github.com/iobroker-community-adapters/ioBroker.pi-hole"
+  },
+  "engines": {
+    "node": ">= 20"
   },
   "dependencies": {
     "request": "^2.88.2",
@@ -35,7 +49,7 @@
     "release": "release-script"
   },
   "bugs": {
-    "url": "https://github.com/unltdnetworx/ioBroker.pi-hole/issues"
+    "url": "https://github.com/iobroker-community-adapters/ioBroker.pi-hole/issues"
   },
   "readmeFilename": "README.md"
 }

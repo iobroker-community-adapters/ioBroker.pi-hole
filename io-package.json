@@ -44,7 +44,6 @@
 				"de": "Ünterstützung von SSL-Verbindungen"
 			}
 		},
-		"title": "pi-hole",
 		"titleLang": {
 			"en": "pi-hole",
 			"de": "Pi-hole",
@@ -70,7 +69,9 @@
 			"zh-cn": "管理一个pi-hole安装"
 		},
 		"authors": [
-			"Michael Schuster <development@unltd-networx.de>"
+			"Michael Schuster <development@unltd-networx.de>",
+			"iobroker-community-adapters <iobroker-community-adapters@gmx.de>",
+			"mcm1957 <mcm57@gmx.at>"
 		],
 		"keywords": [
 			"pi-hole",
@@ -81,8 +82,8 @@
 		"main": "main.js",
 		"icon": "pi-hole.png",
 		"enabled": true,
-		"extIcon": "https://raw.githubusercontent.com/unltdnetworx/ioBroker.pi-hole/master/admin/pi-hole.png",
-		"readme": "https://github.com/unltdnetworx/ioBroker.pi-hole/blob/master/README.md",
+		"extIcon": "https://raw.githubusercontent.com/iobroker-community-adapters/ioBroker.pi-hole/master/admin/pi-hole.png",
+		"readme": "https://github.com/iobroker-community-adapters/ioBroker.pi-hole/blob/master/README.md",
 		"loglevel": "info",
 		"mode": "daemon",
 		"type": "network",
