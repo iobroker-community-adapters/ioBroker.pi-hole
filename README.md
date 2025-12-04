@@ -42,7 +42,8 @@ This adapter would not have been possible without the great work of Michael Schu
 
 ## Changelog
 
-### 2.0.0 (2025-11-28)
+**WORK IN PROGRESS*
+
 * (mcm1957) Adapter has been migrated to iobroker-community-adapters organisation
 * (mcm1957) Adapter requires node.js >= 20, js-controller >= 6.0.11 and admin >= 7.6.17 now
 * (mcm1957) Dependencies have been updated
