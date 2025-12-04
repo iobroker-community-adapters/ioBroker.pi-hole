@@ -12,10 +12,10 @@
 
 This adapter is a ment to read values from a running pi-hole and control the device (start/stop).
 
-**IMPORTANT:**  
-This adapter works with pi-hole release < 6.0.0 only. Please use adpater [ioBroker.pi-hole2](https://github.com/oweitman/ioBroker.pi-hole2) for poi-hole release 6 and newer.
-
-This adapter will only get very limited maintainance as pi-hole 5 and earlier ies EOL.
+>[!WARNING]  
+>This adapter works with pi-hole release < 6.0.0 only. Please use adapter [ioBroker.pi-hole2](https://github.com/oweitman/ioBroker.pi-hole2) for pi-hole release 6 and newer.
+>
+>This adapter will only get very limited maintainance as pi-hole 5 and earlier ies EOL.
 
 ## Steps
 
