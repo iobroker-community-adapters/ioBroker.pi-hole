@@ -2,19 +2,10 @@
   "name": "iobroker.pi-hole",
   "version": "2.0.0",
   "description": "manage a pi-hole installation",
-  "author": {
-    "name": "Michael Schuster",
-    "email": "development@unltd-networx.de"
-  },
+  "author": "Michael Schuster <development@unltd-networx.de>",
   "contributors": [
-    {
-      "name": "iobroker-community-adapters",
-      "email": "iobroker-community-adapters@gmx.de"
-    },
-    {
-      "name": "mcm1957",
-      "email": "mcm57@gmx.at"
-    }
+    "iobroker-community-adapters <iobroker-community-adapters@gmx.de>",
+    "mcm1957 <mcm57@gmx.at>"
   ],
   "homepage": "https://github.com/iobroker-community-adapters/ioBroker.pi-hole",
   "license": "MIT",
