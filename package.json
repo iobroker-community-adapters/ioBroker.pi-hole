@@ -19,7 +19,7 @@
     "url": "https://github.com/iobroker-community-adapters/ioBroker.pi-hole"
   },
   "engines": {
-    "node": ">= 20"
+    "node": ">= 22"
   },
   "dependencies": {
     "request": "^2.88.2",
