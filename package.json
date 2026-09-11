@@ -37,7 +37,7 @@
     "@iobroker/testing": "^6.1.2",
     "@tsconfig/node20": "^20.1.10",
     "@types/node": "^20.19.43",
-    "typescript": "~5.9.3"
+    "typescript": "~7.0.2"
   },
   "main": "main.js",
   "scripts": {
